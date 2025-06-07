@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Counter from './Counter'; // Add this line
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <h1 style={{ color: 'red' }}>Hello, Sharon!</h1>
+      <p>My first React app is up and running.</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -17,7 +19,8 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+         {/*  Your new component */}
+      <Counter />
     </div>
   );
 }
