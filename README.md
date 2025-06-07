@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# My First React App
+
+This is a simple React project I built to learn components and hooks.
+
+## Live Demo
+
+Running locally:  
+
+→ http://localhost:3000
+
+## Screenshots
+
+### 1. App Startup  
+![App Startup](screenshots/Start-react.png)
+
+### 2. Counter Component  
+![Counter Demo](screenshots/Counter-start.png)
+
+## How to Run Locally
+
+1. `git clone https://github.com/Norahs-00/my-first-react-app.git`  
+2. `cd my-first-react-app`  
+3. `npm install`  
+4. `npm start`  
