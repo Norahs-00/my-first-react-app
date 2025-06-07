@@ -85,7 +85,8 @@ Running locally:
 ![App Startup](screenshots/Start-react.png)
 
 ### 2. Counter Component  
-![Counter Demo](screenshots/Counter-start.png)
+![Counter Demo](screenshots/Counter-demo.png)
+
 
 ## How to Run Locally
 
