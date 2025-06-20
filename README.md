@@ -4,7 +4,7 @@ This is a simple React project I built to learn components and hooks.
 
 ## Live Demo
 
-→ https://<your-netlify-url>.netlify.app
+→ [https://<your-netlify-url>.netlify.app](https://app.netlify.com/projects/stellular-platypus-5b6d1e/deploys/6855b0aaba9823eb8db12802)
 
 ## Screenshots
 
